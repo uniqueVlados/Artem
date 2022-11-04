@@ -16,3 +16,7 @@ for i in range(len(matrix)):
     for j in range(len(matrix[i])):
         if i == j:
             print(matrix[i][j])
+
+
+
+# TODO: .......
